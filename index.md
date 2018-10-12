@@ -1,6 +1,6 @@
 ---
 title: Hello World
-layout: post
+author: A Typhoon
 ---
 
 # Hello World
