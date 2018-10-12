@@ -1,12 +1,6 @@
-github: [metadata]
-encoding: UTF-8
-kramdown:
-  input: GFM
-  hard_wrap: false
-future: true
-jailed: false
+title: Testing blog
 theme: jekyll-theme-merlot
-qfm_quirks: paragraph_end
 name: Al's Place
+author: A Typhoon
 
 description: Testing blog
